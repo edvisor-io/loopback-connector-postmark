@@ -1,0 +1,25 @@
+{
+  "name": "loopback-connector-postmark",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "eslint lib/postmark.js"
+  },
+  "author": "",
+  "license": "MIT",
+  "homepage": "https://github.com/edvisor-io/loopback-connector-postmark#readme",
+  "dependencies": {
+    "assert": "^1.4.1",
+    "lodash": "^4.17.2",
+    "postmark": "^1.3.1",
+    "q": "^1.4.1"
+  },
+  "devDependencies": {
+    "eslint": "^3.10.2",
+    "eslint-config-airbnb": "^13.0.0",
+    "eslint-plugin-import": "^2.2.0",
+    "eslint-plugin-jsx-a11y": "^2.2.3",
+    "eslint-plugin-react": "^6.7.1"
+  }
+}
